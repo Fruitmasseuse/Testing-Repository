@@ -1,6 +1,3 @@
-import curses
-import random
-
 # Set up the window
 screen = curses.initscr()
 curses.curs_set(0)
